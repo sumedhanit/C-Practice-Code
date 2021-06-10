@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "hello summi" << endl;
-    cout << "hey jess" << endl;
+    cout << "This is cpp file";
     return 0;
 }
